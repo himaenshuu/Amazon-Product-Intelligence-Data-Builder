@@ -1,4 +1,4 @@
-# Amazon Product Scraper with ChatAI Integration
+# Amazon-Product-Intelligence-Data-Builder
 
 ## Summary
 
@@ -392,5 +392,5 @@ This project is for educational purposes. Ensure compliance with:
 
 ---
 
-**Last Updated**: November 2024  
+**Last Updated**: November 2025  
 **Version**: 1.0

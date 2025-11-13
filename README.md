@@ -1,4 +1,4 @@
-# Amazon Product Scraper with ChatAI Integration
+# Amazon-Product-Intelligence-Data-Builder
 
 ## Summary
 

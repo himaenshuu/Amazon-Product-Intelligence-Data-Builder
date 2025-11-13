@@ -102,8 +102,6 @@ scrapper code/
 ├── notebook-scrapper.ipynb    # Main scraper pipeline
 ├── clean_json.py              # Data cleaning script
 ├── asins.csv                  # Input: Product ASINs to scrape
-├── amazon_results.json        # Output: Raw scraped data
-├── amazon_results_cleaned.json # Output: Cleaned data
 ├── .env.example               # Configuration template
 └── README.md                  # This file
 ```
